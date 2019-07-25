@@ -11,3 +11,5 @@ Feature engineering is manually generating new features from existing features, 
 PCA (Principal Component Analysis) : Popularly used for dimensionality reduction in continuous data, PCA rotates and projects data along the direction of increasing variance. The features with the maximum variance are the principal components.
 
 In the above file, we will see how we can use to PCA to reduce the dimension of the IRIS Flower data set and will also analyze the scatter plot for the same.
+
+https://nbviewer.jupyter.org/github/samirghouri/PCA/blob/master/pca.ipynb
